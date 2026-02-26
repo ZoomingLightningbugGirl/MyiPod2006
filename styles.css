@@ -19,3 +19,15 @@ nav a {
     border-radius:4px;
     font-size:1.1rem;
 }
+#iPod-Home {
+    width:25%;
+    height:100%;
+}
+#iPod-Home img {
+    display:inline;
+    width:100%;
+}
+.iPod-Text {
+    display:inline;
+    line-height:0;
+}
